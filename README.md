@@ -1,3 +1,3 @@
 # FabProntuarios
-ShortPaper: https://www.ibisc.univ-evry.fr/en/advance-2021-short-paper-4/
+Aplicação WEB para simulação de prontuários eletrônicos baseado na tecnologia blockchain.
 ![imagem](image.png)
